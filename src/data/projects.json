@@ -1,26 +1,42 @@
 [
   {
-    "title": "Project A",
+    "title": "React Website Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a my website portfolio  made to learn and understand the basics of React,Javascript,HTML,CSS.",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project Bsss",
+    "title": "Employee App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made in university with colleagues in order  to learn Java basics and to build an employee management shift application in Android Studio.",
+    "skills": ["Java", "Firebase", "Android Studio"],
+    "source": "https://github.com/themissymeonidis/Lantzos_Lab"
   },
   {
-    "title": "Project C",
+    "title": "Zork Type Game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project made in university with my colleagues in Java and its a Zork Type Game in Eclipse .",
+    "skills": ["Java", "Eclipse"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/PanagiotisChatziantoniou/zork-type-game"
+  },
+  {
+    "title": "Places Management App(In Progress)",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack place management app built with React, Node.js, Express, and MongoDB. Users can add, edit, and delete locations, authenticate, and view places on a map",
+    "skills": ["React", "Node.JS", "Express", "MongoDB", "CSS"],
+    "demo": "https://myblog.com",
+    "source": "https://github.com/user/blog"
+  },
+
+  {
+    "title": "React Course Goals App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a simple React application I built for practice. It allows users to add their course goals dynamically. The app consists of a form where users can enter a new goal, which then gets added to the list below. It demonstrates the use of React state, event handling, and component-based UI updates.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://myblog.com",
+    "source": "https://github.com/PanagiotisChatziantoniou/React-Course-Goals-App"
   }
 ]

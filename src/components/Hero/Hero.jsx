@@ -13,7 +13,7 @@ export const Hero = () => {
           I’ve taken my first steps in web development by completing
           foundational courses on HTML, CSS, JavaScript, and React through
           Udemy, earning certifications that showcase my commitment to growth in
-          this exciting field.!
+          this exciting field.
         </p>
         <a
           href='mailto:panoschatziantoniou@gmail.com
@@ -24,7 +24,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl('hero/heroImage.png')}
+        src={getImageUrl('hero/image.jpg')}
         alt='Hero image of me'
         className={styles.heroImg}
       />
